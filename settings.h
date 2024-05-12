@@ -1,6 +1,6 @@
 // Set SSID and PASSWORD for WiFi connection
 
-EspSimpleWifiHandler wifiHandler("WLAN", "PASSWORD");
+EspSimpleWifiHandler wifiHandler("SSID", "PASSWORD");
 
 // Set multicast mode.
 //  If set to true, multicast messages will be used. Otherwise packets are send to
