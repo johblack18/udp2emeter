@@ -3,7 +3,7 @@ Gerhard Sonnleitner
 
 == Introduction
 
-This sketch may be used to read udp telegrams from an loxone, convert it to SMA energy-meter telegrams and send it via UDP.
+This sketch may be used to read udp telegrams from loxone, convert it to SMA energy-meter telegrams and send it via UDP.
 
 
 
